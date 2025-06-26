@@ -1,0 +1,5 @@
+[project]
+name = "oreal"
+version = "0.1.0"
+description = "Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning"
+requires-python = ">=3.10"
